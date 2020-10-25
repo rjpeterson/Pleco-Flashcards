@@ -1,0 +1,349 @@
+﻿// 成語/不A不B
+不聞不問	bu4wen2-bu4wen4
+不折不扣	bu4zhe2-bu4kou4
+不知不覺	bu4zhi1-bu4jue2
+不痛不癢	bu4tong4-bu4yang3
+沒日沒夜	mei2ri4-mei2ye4
+沒頭沒腦	mei2tou2-mei2nao3
+沒大沒小	mei2da4-mei2xiao3
+沒完沒了	mei2wan2-mei2liao3
+// 成語/Appearance
+珠光寶氣	zhu1 guang1 bao3 qi4
+亂七八糟	luan4 qi1 ba1 zao1
+以貌取人	yi3 mao4 qu3 ren2
+// 成語/Assumption
+理所當然	li3suo3dang1ran2
+// 成語/Awareness
+不知不覺	bu4zhi1-bu4jue2
+// 成語/Behavior
+混水摸魚	→hun4shui3-mo1yu2
+和睦相處	he2mu4xiang1chu3
+猶豫不決	you2 yu4 bu4 jue2
+忘恩負義	wang4 en1 fu4 yi4
+無理取鬧	wu2li3-qu3nao4
+// 成語/Bravery & Cowardice
+無所畏懼	wu2 suo3 wei4 ju4
+敢作敢為	gan3 zuo4 gan3 wei2
+毛遂自薦	Mao2 Sui4-zi4jian4
+貪生怕死	tan1 sheng1 pa4 si3
+// 成語/Business
+血本無歸	xue4 ben3 wu2 gui1
+官商勾結	guan1 shang1 gou1 jie2
+// 成語/Busy
+不可開交	bu4 ke3 kai1 jiao1
+馬不停蹄	ma3bu4ting2ti2
+// 成語/Chaos
+天搖地動	tian1yao2-di4dong4
+// 成語/Character & Temperament
+露出馬腳	lou4 chu1 ma3 jiao3
+無所畏懼	wu2 suo3 wei4 ju4
+敢作敢為	gan3 zuo4 gan3 wei2
+百折不撓	bai3 zhe2 bu4 nao2
+空口說白話	kong1 kou3 shuo1 bai2 hua4
+厚顏無恥	hou4 yan2 wu2 chi3
+忘恩負義	wang4 en1 fu4 yi4
+笑口常開	xiao4 kou3 chang2 kai1
+// 成語/Clean & Dirty
+一塵不染	yi1chen2-bu4ran3
+井井有條	jing3jing3-you3tiao2
+亂七八糟	luan4 qi1 ba1 zao1
+// 成語/Complaining
+豈有此理	qi3you3-ci3li3
+// 成語/Confusion
+大惑不解	da4 huo4 bu4 jie3
+恍然大悟	huang3ran2-da4wu4
+黑白不分	hei1bai2bu4fen1
+是非不明	shi4fei1bu4ming2
+// 成語/Cooperation
+有福同享	you3 fu2 tong2 xiang3
+志同道合	zhi4 tong2 dao4 he2
+// 成語/Decisiveness
+猶豫不決	you2 yu4 bu4 jue2
+東挑西選	dong1 tiao1 xi1 xuan3	選來選去，不能馬上決定
+// 成語/Definition
+顧名思義	gu4 ming2 si1 yi4
+// 成語/Desire
+夢寐以求	meng4 mei4 yi3 qiu2
+醉翁之意不在酒	zui4 weng1 zhi1 yi4 bu4 zai4 jiu3
+垂涎三尺	chui2 xian2 san1 chi3
+// 成語/Despair
+望洋興嘆	wang4yang2-xing1tan4
+束手無策	shu4 shou3 wu2 ce4
+心灰意冷	xin1 hui1 yi4 leng3
+垂頭喪氣	chui2tou2-sang4qi4
+// 成語/Disappearance
+不知去向	bu4 zhi1 qu4 xiang4
+// 成語/Duty
+義不容辭	yi4 bu4 rong2 ci2
+// 成語/Ease
+不費吹灰之力	bu4 fei4 chui1 hui1 zhi1 li4
+無拘無束	wu2ju1-wu2shu4
+// 成語/Economy
+停滯不前	ting2zhi4-bu4qian2
+// 成語/Effort
+不費吹灰之力	bu4 fei4 chui1 hui1 zhi1 li4
+千辛萬苦	qian1xin1-wan4ku3
+// 成語/Emotions
+喜出望外	xi3chu1wang4wai4
+心花怒放	xin1hua1-nu4fang4
+坐立不安	zuo4li4-bu4an1
+悶悶不樂	→men4men4-bu2le4
+七上八下	qi1shang4-ba1xia4
+七竅生煙	qi1qiao4-sheng1yan1
+咬牙切齒	yao3ya2-qie4chi3
+垂頭喪氣	chui2tou2-sang4qi4
+大發雷霆	da4 fa1 lei2 ting2
+忐忑不安	tan3 te4 bu4 an1
+興高采烈	xing4gao1-cai3lie4
+哭哭啼啼	ku1 ku5 ti2 ti2
+愁容滿面	chou2rong2man3mian4
+猶豫不決	you2 yu4 bu4 jue2
+欣喜若狂	xin1 xi3 ruo4 kuang2
+觸景傷情	chu4 jing3 shang1 qing2
+心灰意冷	xin1 hui1 yi4 leng3
+愁眉不展	chou2 mei2 bu4 zhan3
+// 成語/Empathy
+感同身受	gan3 tong2 shen1 shou4
+// 成語/Excitement & Energy
+生龍活虎	sheng1long2-huo2hu3
+欣喜若狂	xin1 xi3 ruo4 kuang2
+興高采烈	xing4gao1-cai3lie4
+心花怒放	xin1hua1-nu4fang4
+大吵大鬧	da4 chao3 da4 nao4
+// 成語/Excellence
+數一數二	shu3 yi1 shu3 er4
+獨一無二	du2yi1-wu2er4
+// 成語/Facial Expression
+笑口常開	xiao4 kou3 chang2 kai1
+愁眉不展	chou2 mei2 bu4 zhan3
+愁容滿面	chou2rong2man3mian4
+// 成語/Fame
+舉世聞名	ju3 shi4 wen2 ming2	Works
+家喻戶曉	jia1yu4-hu4xiao3
+// 成語/Family
+無家可歸	wu2jia1-ke3gui1
+生兒育女	sheng1er2-yu4nü3
+養家活口	yang3 jia1 huo2 kou3
+// 成語/Food
+香甜可口	xiang1tian2ke3kou3
+垂涎三尺	chui2 xian2 san1 chi3
+// 成語/Freedom
+無拘無束	wu2ju1-wu2shu4
+// 成語/Friendship
+形影不離	xing2 ying3 bu4 li2
+莫逆之交	mo4 ni4 zhi1 jiao1
+志同道合	zhi4 tong2 dao4 he2
+// 成語/Knowledge & Intelligence
+滾瓜爛熟	→gun3gua1-lan4shou2
+學富五車	xue2 fu4 wu3 ju1
+追根究柢	zhui1 gen1 jiu4 di3
+井底之蛙	jing3 di3 zhi1 wa1
+聰明絕頂	cong1 ming2 jue2 ding3
+當局者迷，旁觀者清	dang1 ju2 zhe3 mi2 pang2 guan1 zhe3 qing1
+無師自通	wu2 shi1 zi4 tong1
+// 成語/Good & Evil
+牛鬼蛇神	niu2gui3-she2shen2
+龍蛇雜處	long2she2-za2chu3
+混水摸魚	→hun4shui3-mo1yu2
+害群之馬	hai4qun2zhi1ma3
+// 成語/Good Fortune
+心想事成	xin1xiang3-shi4cheng2
+萬事如意	wan4shi4-ru2yi4
+百年好合	bai3nian2hao3he2
+// 成語/Government
+官商勾結	guan1 shang1 gou1 jie2
+// 成語/Hardship
+千辛萬苦	qian1xin1-wan4ku3
+// 成語/Heritage
+傳宗接代	chuan2zong1-jie1dai4
+// 成語/Humility
+五體投地	wu3 ti3 tou2 di4
+刮目相看	gua1 mu4 xiang1 kan4
+讚不絕口	zan4 bu4 jue2 kou3
+// 成語/Independence
+自食其力	zi4 shi2 qi2 li4
+// 成語/Inspiration
+靈機一動	ling2 ji1 yi1 dong4
+恍然大悟	huang3ran2-da4wu4
+// 成語/Learning & Education
+追根究柢	zhui1 gen1 jiu4 di3
+// 成語/Life & Death
+貪生怕死	tan1 sheng1 pa4 si3
+// 成語/Logic
+多一事不如少一事	duo1 yi1 shi4 bu4 ru2 shao3 yi1 shi4
+八九不離十	ba1 jiu3 bu4 li2 shi2
+理所當然	li3suo3dang1ran2
+// 成語/Love
+一見鍾情	yi1jian4-zhong1qing2
+// 成語/Memory
+記憶猶新	ji4 yi4 you2 xin1
+觸景傷情	chu4 jing3 shang1 qing2
+刻骨銘心	ke4gu3-ming2xin1
+// 成語/Men
+風流倜儻	feng1liu2-ti4tang3
+溫文儒雅	wen1wen2-ru2ya3
+坐懷不亂	zuo4huai2-bu4luan4
+獐頭鼠目	zhang1tou2-shu3mu4
+玩世不恭	wan2shi4-bu4gong1
+氣宇軒昂	qi4yu3-xuan1ang2
+尖嘴猴腮	jian1zui3-hou2sai1
+衣冠禽獸	yi1guan1-qin2shou4
+// 成語/Mistakes & Failure
+一蹶不振	yi1 jue2 bu4 zhen4
+遙不可及	yao2 bu4 ke3 ji2
+望洋興嘆	wang4yang2-xing1tan4
+害群之馬	hai4qun2zhi1ma3
+血本無歸	xue4 ben3 wu2 gui1
+心灰意冷	xin1 hui1 yi4 leng3
+// 成語/Morality
+黑白不分	hei1bai2bu4fen1
+// 成語/Motivation
+醉翁之意不在酒	zui4 weng1 zhi1 yi4 bu4 zai4 jiu3
+// 成語/Multiplicity
+各式各樣	ge4shi4-ge4yang4
+// 成語/Patience
+迫不及待	po4bu4ji2dai4
+心急如焚	xin1 ji2 ru2 fen2
+// 成語/Peace
+和睦相處	he2mu4xiang1chu3
+// 成語/People
+人山人海	ren2shan1-ren2hai3
+// 成語/Perfection
+十全十美	shi2 quan2 shi2 mei3
+// 成語/Persistence
+百折不撓	bai3 zhe2 bu4 nao2
+皇天不負苦心人	huang2 tian1 bu4 fu4 ku3 xin1 ren2
+千辛萬苦	qian1xin1-wan4ku3
+// 成語/Perspective
+當局者迷，旁觀者清	dang1 ju2 zhe3 mi2 pang2 guan1 zhe3 qing1
+恍然大悟	huang3ran2-da4wu4
+// 成語/Possible & Impossible
+遙不可及	yao2 bu4 ke3 ji2
+束手無策	shu4 shou3 wu2 ce4
+花弧看到女兒意氣風發的模樣一則以喜一則以憂	hua1 hu2 kan4dao4 nü3 er2 yi4 qi4 feng1 fa1 de5 mo2yang4 yi4ze2yi3xi3,yi4ze2yi3you1	
+皇天不負苦心人	huang2 tian1 bu4 fu4 ku3 xin1 ren2
+對牛彈琴	dui4niu2-tan2qin2
+專為單車騎士設計	zhuan1 wei2 dan1 che1 qi2 shi4 she4 ji4	
+豈有此理	qi3you3-ci3li3
+難以置信	nan2 yi3 zhi4 xin4
+不可思議	bu4ke3-si1yi4
+有何不可	you3 he2 bu4 ke3
+無拘無束	wu2ju1-wu2shu4
+// 成語/Poverty
+家徒四壁	jia1tu2si4bi4
+貧富懸殊	pin2 fu4 xuan2 shu1
+無家可歸	wu2jia1-ke3gui1
+// 成語/Praise
+讚不絕口	zan4 bu4 jue2 kou3
+難能可貴	nan2neng2-ke3gui4
+// 成語/Preparation
+未雨綢繆	wei4 yu3 chou2 mou2
+皇天不負苦心人	huang2 tian1 bu4 fu4 ku3 xin1 ren2
+有備無患	you3bei4-wu2huan4
+沙盤推演	sha1 pan2 tui1 yan3
+// 成語/Progress
+突飛猛進	tu2 fei1 meng3 jin4
+// 成語/Relations & Similarities
+風馬牛不相及	feng1 ma3 niu2 bu4 xiang1 ji2
+八九不離十	ba1 jiu3 bu4 li2 shi2
+害群之馬	hai4qun2zhi1ma3
+和睦相處	he2mu4xiang1chu3
+形影不離	xing2 ying3 bu4 li2
+密不可分	mi4 bu4 ke3 fen1
+一較長短	yi1 jiao4 chang2 duan3
+息息相關	xi2 xi2 xiang1 guan1
+// 成語/Respect
+刮目相看	gua1 mu4 xiang1 kan4
+讚不絕口	zan4 bu4 jue2 kou3
+長幼有序	zhang3 you4 you3 xu4
+// 成語/Retorts
+五十步笑百步	wu3 shi2 bu4 xiao4 bai3 bu4
+多一事不如少一事	duo1 yi1 shi4 bu4 ru2 shao3 yi1 shi4
+對牛彈琴	dui4niu2-tan2qin2
+豈有此理	qi3you3-ci3li3
+// 成語/Routine
+早出晚歸	zao3 chu1 wan3 gui1
+// 成語/Rural
+窮鄉僻壤	qiong2xiang1-pi4rang3
+// 成語/Salutations
+萬事如意	wan4shi4-ru2yi4
+早生貴子	zao3sheng1gui4zi3
+百年好合	bai3nian2hao3he2
+// 成語/Secrets
+露出馬腳	lou4 chu1 ma3 jiao3
+// 成語/Selfish & Selflessness
+獨善其身	du2shan4-qi2shen1
+毛遂自薦	Mao2 Sui4-zi4jian4
+貪生怕死	tan1 sheng1 pa4 si3
+// 成語/Shame
+厚顏無恥	hou4 yan2 wu2 chi3
+忘恩負義	wang4 en1 fu4 yi4
+無理取鬧	wu2li3-qu3nao4
+貪生怕死	tan1 sheng1 pa4 si3
+// 成語/Size
+大小不一	da4 xiao3 bu4 yi1
+// 成語/Sleep
+輾轉難眠	zhan3 zhuan3 nan2 mian2	Toss and turn can’t sleep
+夢寐以求	meng4 mei4 yi3 qiu2
+// 成語/Sound
+震耳欲聾	zhen4 er3 yu4 long2
+萬籟俱寂	→wan4lai4-ju4ji2
+// 成語/Speech & Storytelling
+說來話長	shuo1 lai2 hua4 chang2
+一五一十	yi1 wu3 yi1 shi2
+空口說白話	kong1 kou3 shuo1 bai2 hua4
+// 成語/Stereotyping
+一概而論	yi1 gai4 er2 lun4
+// 成語/Strength
+一己之力	yi1 ji3 zhi1 li4	一個人自己的力量
+// 成語/Success
+一舉兩得	yi1ju3-liang3de2
+百折不撓	bai3 zhe2 bu4 nao2
+如魚得水	ru2yu2de2shui3
+刮目相看	gua1 mu4 xiang1 kan4
+皇天不負苦心人	huang2 tian1 bu4 fu4 ku3 xin1 ren2
+大放光明	da4 fang4 guang1 ming2
+// 成語/Surprise
+出乎意料	chu1 hu1 yi4 liao4
+難以置信	nan2 yi3 zhi4 xin4
+目瞪口呆	mu4 deng4 kou3 dai1
+// 成語/Talent
+脫穎而出	tuo1 ying3 er2 chu1
+// 成語/Thinking & Focus
+絞盡腦汁	jiao3 jin4 nao3 zhi1
+靈機一動	ling2 ji1 yi1 dong4
+醉翁之意不在酒	zui4 weng1 zhi1 yi4 bu4 zai4 jiu3
+// 成語/Travel
+不虛此行	bu4 xu1 ci3 xing2
+滿載而歸	man3 zai4 er2 gui1
+歸心似箭	gui1 xin1 si4 jian4
+離鄉背井	li2xiang1-bei4jing3
+// 成語/Uniqueness
+獨一無二	du2yi1-wu2er4
+// 成語/Urban
+車水馬龍	che1shui3-ma3long2
+人山人海	ren2shan1-ren2hai3
+// 成語/Wealth
+珠光寶氣	zhu1 guang1 bao3 qi4
+貧富懸殊	pin2 fu4 xuan2 shu1
+一夜致富	yi1 ye4 zhi4 fu4	To become rich overnight
+// 成語/Weather
+春暖花開	chun1nuan3-hua1kai1
+狂風暴雨	kuang2feng1-bao4yu3
+汗流浹背	han4liu2-jia1bei4
+碧空如洗	bi4kong1 ru2 xi3
+萬里無雲	wan4li3-wu2yun2
+風和日麗	feng1he2-ri4li4
+烏雲密布	wu1yun2-mi4bu4
+天寒地凍	tian1han2-di4dong4
+未雨綢繆	wei4 yu3 chou2 mou2
+天搖地動	tian1yao2-di4dong4
+// 成語/Women
+國色天香	guo2se4-tian1xiang1
+沉魚落雁	chen2yu2-luo4yan4
+東施效顰	dong1shi1-xiao4pin2
+紅杏出牆	hong2xing4-chu1qiang2
+相夫教子	xiang4fu1-jiao4zi3
+蕙質蘭心	→hui4zhi2-lan2xin1
+庸脂俗粉	yong1zhi1su2fen3
+水性楊花	shui3xing4-yang2hua1
